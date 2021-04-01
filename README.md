@@ -18,8 +18,7 @@
 <hr>
 
 <h3 align="left">Estadísticas:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sovilleda07&show_icons=true&theme=radical&locale=en" alt="sovilleda07" /></p>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sovilleda07&show_icons=true&theme=radical&locale=en&layout=compact" alt="sovilleda07" /></p> -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sovilleda07&count_private=true&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="sovilleda07" /></p>
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sovilleda07&show_icons=true&theme=radical&locale=en&layout=compact" alt="sovilleda07" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sovilleda07&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true&langs_count=8" alt="sovilleda07" /></p>
