@@ -7,7 +7,7 @@
 - Creo en el poder de la tecnología para simplificar procesos complejos y crear experiencias digitales seguras.
 
 #### Lenguajes y Frameworks
-[![](https://skillicons.dev/icons?i=html,css,sass,js,php,java,py,ruby,nodejs,express,laravel,bootstrap,jquery)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=html,css,sass,js,php,java,py,ruby,nodejs,express,laravel,bootstrap,jquery,react)](https://skillicons.dev)
 
 #### Bases de datos
 [![](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
