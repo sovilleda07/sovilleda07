@@ -5,15 +5,16 @@
 - 3+ años de experiencia en desarrollo de software e ingeniería de plataforma.
 - Especializada en monitoreo, desarrollo, QA, despliegue y soporte técnico nivel 2.
 - Creo en el poder de la tecnología para simplificar procesos complejos y crear experiencias digitales seguras.
+- Actualmente estoy aprendiendo AWS y Astro.
 
 #### Lenguajes y Frameworks
-[![](https://skillicons.dev/icons?i=html,css,sass,js,php,java,py,ruby,nodejs,express,laravel,bootstrap,jquery,react)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=html,css,sass,js,typescript,php,laravel,java,py,ruby,nodejs,express,laravel,bootstrap,tailwind,jquery,react)](https://skillicons.dev)
 
 #### Bases de datos
-[![](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=sqlite,mysql,mongodb,postgres,sequelize)](https://skillicons.dev)
 
 #### Herramientas
-[![](https://skillicons.dev/icons?i=sentry,grafana,git,github,bitbucket,docker,postman,vscode,wordpress,androidstudio,notion)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=sentry,grafana,git,github,bitbucket,docker,vercel,netlify,postman,vscode,wordpress,androidstudio,notion)](https://skillicons.dev)
 
 ### Conectemos
 Estoy abierta a nuevos desafíos y oportunidades para seguir creciendo profesionalmente.
