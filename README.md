@@ -5,7 +5,7 @@
 - 3+ años de experiencia en desarrollo de software e ingeniería de plataforma.
 - Especializada en monitoreo, desarrollo, QA, despliegue y soporte técnico nivel 2.
 - Creo en el poder de la tecnología para simplificar procesos complejos y crear experiencias digitales seguras.
-- Actualmente estoy aprendiendo AWS y Astro.
+- Actualmente estoy aprendiendo NestJS.
 
 #### Lenguajes y Frameworks
 [![](https://skillicons.dev/icons?i=html,css,sass,js,typescript,php,laravel,java,py,ruby,nodejs,express,laravel,bootstrap,tailwind,jquery,react)](https://skillicons.dev)
